@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: lato, poppins, Tahoma;
+}
+
+.btn {
+    background-color: #E55473;
+    color: #FFFFFF;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: rgba(229, 84, 115, 0.10);
+    height: 850px;
+    width: 1920px;
+}
+
+.heroleft>h1 {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 32px;
+}
+
+.heroleft>p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+.heroleft {
+    /* margin-left: 240px; */
+}
+
+.heroright>img {
+    /* margin-right: 240px; */
+    margin-bottom: -55px;
+}
