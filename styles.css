@@ -134,6 +134,7 @@ img {
     justify-content: space-evenly;
     background: rgba(229, 84, 115, 0.10);
     text-align: center;
+    height: 620px;
 }
 
 .Discount,
@@ -154,4 +155,34 @@ p {
 
 #off {
     color: #E55473;
+}
+
+/* instagram section */
+
+.instagram {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.instagram,
+h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    margin-top: 128px;
+}
+
+.instagram,
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.instagram,
+img {
+    margin-right: 24px;
 }
