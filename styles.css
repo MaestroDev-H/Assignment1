@@ -234,3 +234,28 @@ p {
     border-radius: 8px;
     margin-left: 20px;
 }
+
+/* footer section */
+
+footer {
+    position: relative;
+    background-color: #111010;
+    height: 449px;
+}
+
+.foot {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.foot h1,
+.foot p {
+    color: #FFFFFF;
+}
+
+#Fl {
+    color: #E55473
+}
