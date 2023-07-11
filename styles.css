@@ -12,7 +12,6 @@ body {
 .btn {
     background-color: #E55473;
     color: #FFFFFF;
-    /* display: flex; */
     padding: 20px 43px;
     font-size: 20px;
     border-radius: 8px;
@@ -185,4 +184,53 @@ p {
 .instagram,
 img {
     margin-right: 24px;
+}
+
+/* subscribe section */
+
+.subscribe {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    background-image: url("/images/Rectangle\ 9.png");
+    background-position: center;
+    width: 1440px;
+    height: 449px;
+    margin-left: 100px;
+}
+
+
+
+.subscribe,
+h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    margin-top: 128px;
+}
+
+.subscribe,
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#email {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 35px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sub-button {
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 10px 23px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin-left: 20px;
 }
