@@ -239,9 +239,12 @@ p {
 }
 
 #insright {
-    display: flex;
-    gap: 20px;
-}
+    display:inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;}
+
+
 
 /* subscribe section */
 
