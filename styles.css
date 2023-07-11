@@ -138,8 +138,6 @@ img {
     margin: 50px;
 }
 
-
-
 /* Discount Section */
 
 .Discount {
@@ -151,6 +149,7 @@ img {
     height: 620px;
     width: 100%;
     padding-left: 80px;
+    margin-top: 150px;
 }
 
 .Discount,
@@ -198,7 +197,7 @@ p {
       }
   
       .form-container button[type="submit"] {
-        background-color: #e4a229;
+        background-color:#E55473;
         color: white;
         padding: 10px 20px;
         border: none;
@@ -206,10 +205,7 @@ p {
         cursor: pointer;
         width: 100%;
       }
-  
-      .form-container button[type="submit"]:hover {
-        background-color:#E55473;}
-
+ 
 /* instagram section */
 
 .instagram {
