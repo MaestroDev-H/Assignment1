@@ -193,7 +193,7 @@ img {
     align-items: center;
     justify-content: space-evenly;
     text-align: center;
-    background-image: url("/images/Rectangle\ 9.png");
+    background-image: url("./images/Rectangle\ 9.png");
     background-position: center;
     width: 1440px;
     height: 449px;
